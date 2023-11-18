@@ -1,0 +1,1 @@
+# PROYECTO FINAL SANTIAGO ACUNA decidi hacer una base de un ecomerce para en un futuro cuando consiga unos proveedores de juegos poder empezar a vender los juegos digitales y asi ya utilizar la base que hice en los cursos de html y javascript. # EntregaFinalSantiagoAcuna
